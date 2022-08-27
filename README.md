@@ -1,6 +1,6 @@
 # AI
 
-Use of AI for Vital Signs and image uploader
+Use of AI for Vital Signs detection and image uploader
 
 Body temperature:
 
