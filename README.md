@@ -90,3 +90,9 @@ The reference values considered in the Program for respiratory rate are: 12 to 1
 Figure 69. Obtaining the breath rate and adding to the clinical record of the patient. Adjusted from the code [66].
 
 
+Detecting diseases:
+
+![image](https://user-images.githubusercontent.com/26171557/187051354-52053ae5-c30c-429a-ba52-791bc130e241.png)
+
+![image](https://user-images.githubusercontent.com/26171557/187051360-235da39f-63ac-4f0d-8b6e-1ff23597da2c.png)
+
